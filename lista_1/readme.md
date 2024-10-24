@@ -7,9 +7,9 @@ decímetros, centímetros e milímetros.
 horas, minutos e segundos .
 3. Faça um programa em C que solicite ao usuário informar 6 (seis) números. Calcule e
 mostre:
-1. a média dos 3 (três) primeiros informados
-2. a média dos 3 (três) últimos informados
-3. a soma das médias
+  a. a média dos 3 (três) primeiros informados
+  b. a média dos 3 (três) últimos informados
+  c. a soma das médias
 4. Faça um programa em C que solicite ao usuário informar um número inteiro e apresente na
 tela seu sucessor e seu antecessor.
 5. Sabendo que um veículo tem o desempenho médio de 15km/L de combustível, faça um
