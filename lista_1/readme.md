@@ -45,11 +45,13 @@ horas. Acima de 60h há um bônus de 100% para essas horas.
 informam o placar do jogo e um palpite. Ganham 10 pontos se acertarem o vencedor ou se
 acertarem que foi empate, e ganham mais 5 pontos para o placar de cada time que
 acertarem. A tabela a seguir dá um exemplo, considerando que o placar real foi 3x2:
-| Placar apostado | Pontos | Razão |
-| --- | --- | --- |
-| 0 x 1 | 0 | Não acertou o vencedor e nem o número de gols dos times. |
-| 0 x 2 | 5 | Não acertou o vencedor, mas acertou o número de gols do segundo time. |
-| 3 x 5 | 5 | Não acertou o vencedor, mas acertou o número de gols do primeiro time. |
-| 1 x 0 | 10 | Acertou o vencedor, mas não acertou o número de gols dos times. |
-| 3 x 1 | 15 | Acertou o vencedor e o número de gols do primeiro time. |
-| 3 x 2 | 20 | Acertou o vencedor e o número de gols de ambos os times. |
+| Placar apostado | Pontos | Razão                                                                  |
+|-----------------|--------|------------------------------------------------------------------------|
+| 0 x 1           | 0      | Não acertou o vencedor e nem o número de gols dos times.               |
+| 0 x 2           | 5      | Não acertou o vencedor, mas acertou o número de gols do segundo time.  |
+| 3 x 5           | 5      | Não acertou o vencedor, mas acertou o número de gols do primeiro time. |
+| 1 x 0           | 10     | Acertou o vencedor, mas não acertou o número de gols dos times.        |
+| 3 x 1           | 15     | Acertou o vencedor e o número de gols do primeiro time.                |
+| 3 x 2           | 20     | Acertou o vencedor e o número de gols de ambos os times.               |
+
+
