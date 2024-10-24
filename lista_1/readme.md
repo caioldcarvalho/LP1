@@ -26,6 +26,7 @@ INSS.
 deve solicitar ao usuário a velocidade inicial do lançamento em m/s e o ângulo do
 lançamento em graus. Calcular e mostrar a quantos metros de distância o projétil atingirá o
 chão, considerando aceleração da gravidade igual a 9,81 m/s2.
+
 9) Faça um programa em C para ler dois números inteiros e informar qual o maior ou se são
 iguais.
 10)Faça um programa em C para ler dois números inteiros A e B e informar se A é divisível
@@ -41,17 +42,22 @@ estiver dentro do limite, o programa deve informar que não há multa.
 são: o número de horas trabalhadas na semana e o valor da hora. Até 40 h/semana não se
 acrescenta nenhum adicional. Acima de 40h e até 60h há um bônus de 50% para essas
 horas. Acima de 60h há um bônus de 100% para essas horas.
-14)Zeca está organizando um bolão de futebol. Segundo suas regras, os apostadores
-informam o placar do jogo e um palpite. Ganham 10 pontos se acertarem o vencedor ou se
-acertarem que foi empate, e ganham mais 5 pontos para o placar de cada time que
-acertarem. A tabela a seguir dá um exemplo, considerando que o placar real foi 3x2:
-| Placar apostado | Pontos | Razão                                                                  |
-|-----------------|--------|------------------------------------------------------------------------|
-| 0 x 1           | 0      | Não acertou o vencedor e nem o número de gols dos times.               |
-| 0 x 2           | 5      | Não acertou o vencedor, mas acertou o número de gols do segundo time.  |
-| 3 x 5           | 5      | Não acertou o vencedor, mas acertou o número de gols do primeiro time. |
-| 1 x 0           | 10     | Acertou o vencedor, mas não acertou o número de gols dos times.        |
-| 3 x 1           | 15     | Acertou o vencedor e o número de gols do primeiro time.                |
-| 3 x 2           | 20     | Acertou o vencedor e o número de gols de ambos os times.               |
+
+
+15)Escreva um programa em C que requisita do usuário o placar apostado e depois o placar
+do jogo e informa quantos pontos o apostador fez.
+16)O IMC – Índice de Massa Corporal é um critério da Organização Mundial de Saúde para
+dar uma indicação sobre a condição de peso de uma pessoa adulta. A fórmula é IMC =
+peso / (altura )2. Elabore um programa em C que receba como entrada o peso e a altura de
+um adulto e mostre sua condição de acordo com a tabela abaixo:
+IMC em adultos Condição
+Abaixo de 18,5 Abaixo do peso
+Entre 18,5 e 25 Peso normal
+Entre 25 e 30 Acima do peso
+Acima de 30 obeso
+17)Tendo como dados de entrada a altura (h) e o sexo(“M” ou “F”) de uma pessoa, construa
+um programa em C que calcule seu peso ideal, utilizando as seguintes fórmulas:
+• para homens: (72.7 * h) – 58;
+• para mulheres: (62.1 * h) – 44.7.
 
 
