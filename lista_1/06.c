@@ -10,7 +10,7 @@ int main() {
 
   float watts_necessarios = tamanho_comodo * boa_luminosidade;
 
-  printf("A quantidade de lâmpadas necessárias para iluminar este cômodo é %f\n", watts_necessarios / watts_por_lampada;
+  printf("A quantidade de lâmpadas necessárias para iluminar este cômodo é %f\n", watts_necessarios / watts_por_lampada);
 
   return 0;
 }
