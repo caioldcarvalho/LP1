@@ -1,9 +1,7 @@
+// Ex02
+
 #include <stdio.h>
 #include <stdlib.h>
-
-/* Exercício 2
- * Fazer um programa que solicita do usuário um tempo em segundos, correspondente à duração de um evento qualquer. Calcular e mostrar ao usuário o tempo equivalente em horas, minutos e segundos.
- * */
 
 int main(){
     int segundos, minutos, horas;
