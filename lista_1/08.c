@@ -1,3 +1,5 @@
+// Ex08
+
 #include <stdio.h>
 #include <math.h>
 
@@ -10,7 +12,7 @@ int main() {
 
   float angulo_radianos = angulo_graus * (M_PI / 180.0);
 
-  double distancia = (pow(velocidade_inicial,2) * sin(angulo_radianos)) / GRAVIDADE;
+  double distancia = (pow(velocidade_inicial,2) * sin(2 * angulo_radianos)) / GRAVIDADE;
 
   printf("O projétil cai a uma distância de %.2fm.\n", distancia);
 
